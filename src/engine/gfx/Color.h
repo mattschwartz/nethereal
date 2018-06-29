@@ -2,7 +2,7 @@
 #define _COLOR_H_
 
 struct SDL_Renderer;
-class SDL_PixelFormat;
+struct SDL_PixelFormat;
 
 class Color {
 public:
